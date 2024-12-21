@@ -6,6 +6,7 @@ class Solution:
             result.append(self.generate_row(i))
         return result    
     def generate_row(self,r):
+        #used ncr method here where i multiplied the num and denom like a pattern which i get after applying ncr for finding the value at a particular position
         r1=1
         row=[]
         row.append(r1)
