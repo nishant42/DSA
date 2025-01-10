@@ -9,6 +9,7 @@
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
