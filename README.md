@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -58,6 +59,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
