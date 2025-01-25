@@ -14,6 +14,7 @@
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -48,6 +49,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 ## Bit Manipulation
 |  |
@@ -68,6 +70,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
@@ -81,4 +84,20 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nishant42/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
