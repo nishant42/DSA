@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -35,6 +36,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
@@ -42,6 +44,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
