@@ -16,6 +16,7 @@
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+| [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nishant42/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
+| [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nishant42/DSA/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -154,4 +157,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
