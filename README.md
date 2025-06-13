@@ -30,6 +30,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/nishant42/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 ## Math
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -202,4 +204,5 @@
 | [0039-combination-sum](https://github.com/nishant42/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishant42/DSA/tree/master/0040-combination-sum-ii) |
 | [0090-subsets-ii](https://github.com/nishant42/DSA/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
