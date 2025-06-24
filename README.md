@@ -8,6 +8,7 @@
 | [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/nishant42/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishant42/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/nishant42/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -203,6 +204,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/nishant42/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishant42/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/nishant42/DSA/tree/master/0046-permutations) |
 | [0090-subsets-ii](https://github.com/nishant42/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
