@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
+| [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishant42/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishant42/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nishant42/DSA/tree/master/0046-permutations) |
@@ -44,6 +45,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
 ## Sorting
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
 | [0128-longest-consecutive-sequence](https://github.com/nishant42/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/nishant42/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishant42/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -203,6 +206,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/nishant42/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/nishant42/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nishant42/DSA/tree/master/0046-permutations) |
