@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/nishant42/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishant42/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishant42/DSA/tree/master/0035-search-insert-position) |
 | [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
@@ -73,6 +74,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/nishant42/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nishant42/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nishant42/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
