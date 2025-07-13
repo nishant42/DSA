@@ -31,6 +31,7 @@
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nishant42/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
@@ -85,6 +86,7 @@
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
