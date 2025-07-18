@@ -32,6 +32,7 @@
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishant42/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant42/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishant42/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/nishant42/DSA/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -89,6 +90,7 @@
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishant42/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant42/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishant42/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
