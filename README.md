@@ -184,6 +184,7 @@
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 ## Design
 |  |
@@ -191,6 +192,7 @@
 | [0146-lru-cache](https://github.com/nishant42/DSA/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 ## Queue
 |  |
 | ------- |
@@ -209,6 +211,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/nishant42/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -281,4 +284,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nishant42/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishant42/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nishant42/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
