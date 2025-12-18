@@ -33,6 +33,7 @@
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/nishant42/DSA/tree/master/0994-rotting-oranges) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishant42/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant42/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishant42/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -58,6 +59,7 @@
 | [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/nishant42/DSA/tree/master/0994-rotting-oranges) |
 ## Sorting
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nishant42/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishant42/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nishant42/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/nishant42/DSA/tree/master/0994-rotting-oranges) |
 ## Data Stream
 |  |
 | ------- |
