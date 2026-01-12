@@ -31,6 +31,7 @@
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0485-max-consecutive-ones](https://github.com/nishant42/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
