@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/nishant42/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
@@ -58,6 +59,7 @@
 | [0062-unique-paths](https://github.com/nishant42/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/nishant42/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nishant42/DSA/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -73,6 +75,7 @@
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -98,6 +101,7 @@
 | [0069-sqrtx](https://github.com/nishant42/DSA/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishant42/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
@@ -109,6 +113,7 @@
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/nishant42/DSA/tree/master/0090-subsets-ii) |
+| [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Recursion
 |  |
@@ -131,6 +136,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nishant42/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 ## Divide and Conquer
 |  |
