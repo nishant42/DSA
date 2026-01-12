@@ -28,6 +28,7 @@
 | [0189-rotate-array](https://github.com/nishant42/DSA/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
@@ -85,6 +86,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/nishant42/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/nishant42/DSA/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nishant42/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
