@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
 | [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant42/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nishant42/DSA/tree/master/0033-search-in-rotated-sorted-array) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nishant42/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -308,4 +310,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
