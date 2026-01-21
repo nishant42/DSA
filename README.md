@@ -64,6 +64,7 @@
 | [0069-sqrtx](https://github.com/nishant42/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nishant42/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -232,6 +233,7 @@
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -320,4 +322,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
