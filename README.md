@@ -233,6 +233,7 @@
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
+| [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -328,4 +329,8 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
