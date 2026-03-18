@@ -18,6 +18,7 @@
 | [0046-permutations](https://github.com/nishant42/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/nishant42/DSA/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/nishant42/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/nishant42/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/nishant42/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/nishant42/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/nishant42/DSA/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/nishant42/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
@@ -156,6 +158,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/nishant42/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
