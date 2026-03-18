@@ -93,6 +93,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nishant42/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nishant42/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nishant42/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/nishant42/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishant42/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/nishant42/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -240,6 +241,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nishant42/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
+| [0125-valid-palindrome](https://github.com/nishant42/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
