@@ -17,6 +17,7 @@
 | [0040-combination-sum-ii](https://github.com/nishant42/DSA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/nishant42/DSA/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/nishant42/DSA/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/nishant42/DSA/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/nishant42/DSA/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/nishant42/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
@@ -80,6 +81,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/nishant42/DSA/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/nishant42/DSA/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/nishant42/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
@@ -145,6 +147,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/nishant42/DSA/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/nishant42/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/nishant42/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/nishant42/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -246,6 +249,7 @@
 | [0005-longest-palindromic-substring](https://github.com/nishant42/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/nishant42/DSA/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/nishant42/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
