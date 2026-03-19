@@ -84,6 +84,7 @@
 | [0088-merge-sorted-array](https://github.com/nishant42/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
@@ -152,6 +153,7 @@
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
@@ -247,6 +249,7 @@
 | [0125-valid-palindrome](https://github.com/nishant42/DSA/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
