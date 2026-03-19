@@ -1,16 +1,15 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        dict1={}
-        dict2={}
-        for i in s:
-            dict1[i]= dict1.get(i,0)+1
-        for j in t:
-            dict2[j]= dict2.get(j,0)+1
-        
-        if dict1==dict2:
-            return True
-        else:
+        if len(s) != len(t):
             return False
-    
-
-        
+            
+        count = {}
+        for i in range(len(s)):
+            count[s[i]] = count.get(s[i], 0) + 1
+            count[t[i]] = count.get(t[i], 0) - 1
+            
+        # If all values are 0, they are anagrams
+        for val in count.values():
+            if val != 0:
+                return False
+        return True
