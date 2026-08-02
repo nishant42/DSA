@@ -38,6 +38,7 @@
 | [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nishant42/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
@@ -59,6 +60,7 @@
 | [0062-unique-paths](https://github.com/nishant42/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
+| [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 ## Math
 |  |
 | ------- |
