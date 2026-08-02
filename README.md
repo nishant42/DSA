@@ -41,6 +41,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nishant42/DSA/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
@@ -61,6 +62,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 ## Math
 |  |
 | ------- |
@@ -301,6 +303,7 @@
 | [0051-n-queens](https://github.com/nishant42/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/nishant42/DSA/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
+| [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 ## Tree
 |  |
 | ------- |
