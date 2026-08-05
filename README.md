@@ -43,6 +43,7 @@
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
@@ -63,6 +64,7 @@
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 ## Math
 |  |
 | ------- |
@@ -372,4 +374,12 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
