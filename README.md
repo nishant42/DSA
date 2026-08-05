@@ -37,6 +37,7 @@
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/nishant42/DSA/tree/master/0485-max-consecutive-ones) |
@@ -62,6 +63,7 @@
 | [0062-unique-paths](https://github.com/nishant42/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
@@ -348,6 +350,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/nishant42/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nishant42/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/nishant42/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/nishant42/DSA/tree/master/0994-rotting-oranges) |
 ## Data Stream
 |  |
@@ -377,9 +380,11 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
