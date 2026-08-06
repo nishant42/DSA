@@ -70,6 +70,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
+| [1143-longest-common-subsequence](https://github.com/nishant42/DSA/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
 | ------- |
@@ -272,6 +273,7 @@
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/nishant42/DSA/tree/master/1143-longest-common-subsequence) |
 | [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
@@ -395,4 +397,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/nishant42/DSA/tree/master/0070-climbing-stairs) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/nishant42/DSA/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
