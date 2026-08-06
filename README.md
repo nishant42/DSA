@@ -32,6 +32,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nishant42/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nishant42/DSA/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/nishant42/DSA/tree/master/0198-house-robber) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
@@ -63,6 +64,7 @@
 | [0062-unique-paths](https://github.com/nishant42/DSA/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nishant42/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/nishant42/DSA/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
