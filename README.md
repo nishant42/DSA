@@ -69,6 +69,7 @@
 | [0322-coin-change](https://github.com/nishant42/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/nishant42/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/nishant42/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 | [1143-longest-common-subsequence](https://github.com/nishant42/DSA/tree/master/1143-longest-common-subsequence) |
 ## Math
@@ -270,6 +271,7 @@
 | [0131-palindrome-partitioning](https://github.com/nishant42/DSA/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
+| [0516-longest-palindromic-subsequence](https://github.com/nishant42/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
