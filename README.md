@@ -421,4 +421,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/nishant42/DSA/tree/master/0238-product-of-array-except-self) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/nishant42/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
