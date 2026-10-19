@@ -9,11 +9,11 @@ class Solution {
         int maxval = 0;
          
         for (int i : set) {
-			      int count=0; 
+			int count=0; 
             long current = i;
             if (!set.contains(i-1)) {
                 
-                while (current <= Integer.MAX_VALUE && set.contains((int) current)) {
+                while ( set.contains((int) current)) {
                         count++;
                         current++;
                     }
