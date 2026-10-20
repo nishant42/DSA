@@ -5,9 +5,10 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             if(nums[i]!=nums[start]){
                 // int temp=nums[start];
-                nums[start+1]=nums[i];
-       
                 start++;
+                nums[start]=nums[i];
+       
+                
             }
             
         }
