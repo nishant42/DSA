@@ -51,6 +51,7 @@
 | [0494-target-sum](https://github.com/nishant42/DSA/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
+| [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
