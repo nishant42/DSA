@@ -174,6 +174,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nishant42/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nishant42/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/nishant42/DSA/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/nishant42/DSA/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/nishant42/DSA/tree/master/0049-group-anagrams) |
@@ -277,6 +278,7 @@
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nishant42/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/nishant42/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/nishant42/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
@@ -306,6 +308,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/nishant42/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
 ## Heap (Priority Queue)
