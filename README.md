@@ -56,6 +56,7 @@
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/nishant42/DSA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -196,6 +197,7 @@
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
+| [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 ## Divide and Conquer
 |  |
@@ -318,6 +320,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nishant42/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 ## Heap (Priority Queue)
