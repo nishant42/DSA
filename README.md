@@ -280,6 +280,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -287,6 +288,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 ## String
 |  |
 | ------- |
@@ -401,6 +403,7 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 ## Trie
 |  |
 | ------- |
