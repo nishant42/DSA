@@ -214,6 +214,7 @@
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
+| [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 ## Combinatorics
 |  |
 | ------- |
@@ -279,6 +280,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
+| [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 ## Backtracking
 |  |
 | ------- |
