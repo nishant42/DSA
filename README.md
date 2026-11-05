@@ -200,6 +200,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
+| [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant42/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -283,6 +284,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
+| [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 ## Queue
@@ -310,6 +312,7 @@
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/nishant42/DSA/tree/master/1143-longest-common-subsequence) |
+| [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1903-largest-odd-number-in-string](https://github.com/nishant42/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Monotonic Stack
 |  |
