@@ -4,7 +4,7 @@ class Bank {
        this.balance=balance; 
     }
      public boolean isValid(int account){
-         if(account<1 || account>balance.length+1){
+         if(account<1 || account>balance.length){
                 return false;
         }
         return true;
