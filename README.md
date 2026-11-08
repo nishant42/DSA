@@ -53,6 +53,7 @@
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0518-coin-change-ii](https://github.com/nishant42/DSA/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
+| [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/nishant42/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/nishant42/DSA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
@@ -156,6 +157,7 @@
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -236,6 +238,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 ## Merge Sort
 |  |
 | ------- |
@@ -244,6 +247,7 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+| [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 ## Linked List
 |  |
 | ------- |
@@ -288,6 +292,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
+| [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
