@@ -62,6 +62,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishant42/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant42/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 | [1539-kth-missing-positive-number](https://github.com/nishant42/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishant42/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
@@ -258,6 +259,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/nishant42/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0908-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 ## Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 ## Design
 |  |
 | ------- |
@@ -285,6 +288,7 @@
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
+| [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 ## Queue
@@ -325,6 +329,7 @@
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/nishant42/DSA/tree/master/0146-lru-cache) |
+| [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 ## Sliding Window
 |  |
 | ------- |
@@ -411,6 +416,7 @@
 | ------- |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
+| [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 ## Trie
 |  |
 | ------- |
