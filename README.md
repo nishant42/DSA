@@ -160,6 +160,7 @@
 | [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 | [0792-binary-search](https://github.com/nishant42/DSA/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/nishant42/DSA/tree/master/0907-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/nishant42/DSA/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant42/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -204,6 +205,7 @@
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
+| [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
@@ -297,6 +299,7 @@
 | [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
+| [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
@@ -324,6 +327,7 @@
 | [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishant42/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
+| [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
 | [1021-remove-outermost-parentheses](https://github.com/nishant42/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/nishant42/DSA/tree/master/1143-longest-common-subsequence) |
