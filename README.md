@@ -206,6 +206,7 @@
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
+| [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant42/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -266,6 +267,7 @@
 | [0876-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0908-middle-of-the-linked-list) |
 | [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 ## Stack
 |  |
 | ------- |
@@ -298,6 +300,7 @@
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
+| [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 ## Queue
 |  |
@@ -338,6 +341,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/nishant42/DSA/tree/master/0146-lru-cache) |
 | [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
+| [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 ## Sliding Window
 |  |
 | ------- |
