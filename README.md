@@ -167,6 +167,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/nishant42/DSA/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/nishant42/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/nishant42/DSA/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +212,7 @@
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant42/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -239,11 +241,13 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Segment Tree
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Merge Sort
 |  |
 | ------- |
@@ -253,6 +257,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Linked List
 |  |
 | ------- |
@@ -309,6 +314,7 @@
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 ## Queue
 |  |
@@ -368,6 +374,7 @@
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -494,6 +501,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nishant42/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
