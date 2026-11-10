@@ -313,6 +313,7 @@
 | [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
+| [1845-seat-reservation-manager](https://github.com/nishant42/DSA/tree/master/1845-seat-reservation-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
@@ -374,6 +375,7 @@
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
+| [1845-seat-reservation-manager](https://github.com/nishant42/DSA/tree/master/1845-seat-reservation-manager) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Monotonic Queue
 |  |
