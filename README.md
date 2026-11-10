@@ -210,6 +210,7 @@
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
+| [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant42/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
 |  |
@@ -305,6 +306,7 @@
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
+| [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 ## Queue
 |  |
 | ------- |
