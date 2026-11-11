@@ -212,6 +212,7 @@
 | [1695-maximum-erasure-value](https://github.com/nishant42/DSA/tree/master/1695-maximum-erasure-value) |
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
+| [2349-design-a-number-container-system](https://github.com/nishant42/DSA/tree/master/2349-design-a-number-container-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant42/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -257,6 +258,7 @@
 | ------- |
 | [0493-reverse-pairs](https://github.com/nishant42/DSA/tree/master/0493-reverse-pairs) |
 | [0729-my-calendar-i](https://github.com/nishant42/DSA/tree/master/0729-my-calendar-i) |
+| [2349-design-a-number-container-system](https://github.com/nishant42/DSA/tree/master/2349-design-a-number-container-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Linked List
 |  |
@@ -315,6 +317,7 @@
 | [1797-design-authentication-manager](https://github.com/nishant42/DSA/tree/master/1797-design-authentication-manager) |
 | [1845-seat-reservation-manager](https://github.com/nishant42/DSA/tree/master/1845-seat-reservation-manager) |
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
+| [2349-design-a-number-container-system](https://github.com/nishant42/DSA/tree/master/2349-design-a-number-container-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 ## Queue
@@ -376,6 +379,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
 | [1845-seat-reservation-manager](https://github.com/nishant42/DSA/tree/master/1845-seat-reservation-manager) |
+| [2349-design-a-number-container-system](https://github.com/nishant42/DSA/tree/master/2349-design-a-number-container-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
 ## Monotonic Queue
 |  |
