@@ -214,6 +214,7 @@
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 | [2349-design-a-number-container-system](https://github.com/nishant42/DSA/tree/master/2349-design-a-number-container-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/nishant42/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Divide and Conquer
@@ -230,6 +231,7 @@
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Combinatorics
 |  |
 | ------- |
@@ -319,6 +321,7 @@
 | [2043-simple-bank-system](https://github.com/nishant42/DSA/tree/master/2043-simple-bank-system) |
 | [2349-design-a-number-container-system](https://github.com/nishant42/DSA/tree/master/2349-design-a-number-container-system) |
 | [2424-longest-uploaded-prefix](https://github.com/nishant42/DSA/tree/master/2424-longest-uploaded-prefix) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 | [2671-frequency-tracker](https://github.com/nishant42/DSA/tree/master/2671-frequency-tracker) |
 ## Queue
 |  |
@@ -327,6 +330,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## String
 |  |
 | ------- |
@@ -452,6 +456,7 @@
 | [0901-online-stock-span](https://github.com/nishant42/DSA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 | [1472-design-browser-history](https://github.com/nishant42/DSA/tree/master/1472-design-browser-history) |
+| [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Trie
 |  |
 | ------- |
