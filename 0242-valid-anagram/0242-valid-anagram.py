@@ -1,15 +1,17 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
+        mp={}
+        mp2={}
         if len(s) != len(t):
             return False
-            
-        count = {}
-        for i in range(len(s)):
-            count[s[i]] = count.get(s[i], 0) + 1
-            count[t[i]] = count.get(t[i], 0) - 1
-            
-        # If all values are 0, they are anagrams
-        for val in count.values():
-            if val != 0:
-                return False
-        return True
+        for i in s:
+            mp[i]=mp.get(i,0)+1
+        for j in t:
+            mp2[j]=mp2.get(j,0)+1
+        
+        return mp==mp2
+    
+        
+
+
+        
