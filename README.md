@@ -205,6 +205,7 @@
 | [0268-missing-number](https://github.com/nishant42/DSA/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
@@ -231,6 +232,7 @@
 | [0169-majority-element](https://github.com/nishant42/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/nishant42/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [1603-design-parking-system](https://github.com/nishant42/DSA/tree/master/1603-design-parking-system) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## Combinatorics
@@ -332,6 +334,7 @@
 | [0225-implement-stack-using-queues](https://github.com/nishant42/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/nishant42/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/nishant42/DSA/tree/master/0933-number-of-recent-calls) |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/nishant42/DSA/tree/master/2526-find-consecutive-integers-from-a-data-stream) |
 ## String
@@ -347,6 +350,7 @@
 | [0139-word-break](https://github.com/nishant42/DSA/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishant42/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
