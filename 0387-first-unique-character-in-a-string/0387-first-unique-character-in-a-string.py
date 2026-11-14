@@ -1,15 +1,13 @@
+from collections import Counter
 class Solution:
     def firstUniqChar(self, s: str) -> int:
-        mydict={}
-      
-        for i in s:
-            mydict[i]=mydict.get(i,0)+1
-        for key,val in mydict.items():
-            
-            if val==1:
-                return s.index(key)
-            else:
-                pass
-            
-        return -1    
+        counter= Counter(s)
+
+        for i,j in enumerate(s):
+            if counter[j]==1:
+                return i
+        return -1
+  
+
+
         
