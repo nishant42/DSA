@@ -206,6 +206,7 @@
 | [0347-top-k-frequent-elements](https://github.com/nishant42/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/nishant42/DSA/tree/master/0355-design-twitter) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nishant42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
@@ -351,6 +352,7 @@
 | [0205-isomorphic-strings](https://github.com/nishant42/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nishant42/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nishant42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishant42/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
@@ -378,6 +380,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/nishant42/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/nishant42/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/nishant42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
