@@ -142,6 +142,7 @@
 | [0234-palindrome-linked-list](https://github.com/nishant42/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/nishant42/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/nishant42/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/nishant42/DSA/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/nishant42/DSA/tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search
@@ -208,6 +209,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishant42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/nishant42/DSA/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/nishant42/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
 | [1396-design-underground-system](https://github.com/nishant42/DSA/tree/master/1396-design-underground-system) |
@@ -354,6 +356,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/nishant42/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishant42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/nishant42/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/nishant42/DSA/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/nishant42/DSA/tree/master/0796-rotate-string) |
 | [0981-time-based-key-value-store](https://github.com/nishant42/DSA/tree/master/0981-time-based-key-value-store) |
 | [1003-check-if-word-is-valid-after-substitutions](https://github.com/nishant42/DSA/tree/master/1003-check-if-word-is-valid-after-substitutions) |
@@ -381,6 +384,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/nishant42/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/nishant42/DSA/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/nishant42/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/nishant42/DSA/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/nishant42/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/nishant42/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/nishant42/DSA/tree/master/1004-max-consecutive-ones-iii) |
