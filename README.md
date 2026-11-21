@@ -532,4 +532,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nishant42/DSA/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/nishant42/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
