@@ -1,15 +1,13 @@
 class Solution:
-    def dailyTemperatures(self, temperatures: List[int]) -> List[int]:
-            n = len(temperatures)
-            res = [0] * n
-            stack = []  # Stores indices
-            
-            for i in range(n):
-                # If current element is greater than top, we found the 'next greater'
-                while stack and temperatures[i] > temperatures[stack[-1]]:
-                    index = stack.pop()
-                    res[index] = i-index
-                stack.append(i)
-                
-            return res
-        
+    def dailyTemperatures(self, temperatures: list[int]) -> list[int]:
+        tracker = []
+        res = [0] * len(temperatures)
+
+        for i, j in enumerate(temperatures):
+            # today (j) answers every waiting day that's colder
+            while tracker and temperatures[tracker[-1]] < j:
+                k = tracker.pop()
+                res[k] = i - k
+            tracker.append(i)    # today now waits for its own warmer day
+
+        return res
